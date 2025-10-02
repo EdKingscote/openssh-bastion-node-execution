@@ -1,3 +1,7 @@
+# Deprecated
+
+This repository is no longer maintained and is only avaiable for historical example purposes.  It will be deleted at some point in the future.
+
 # OpenSSH Bastion Host Node Execution Plugins
 
 This plugin provides a node-executor and file-copier supporting ssh actions through a bastion host.
